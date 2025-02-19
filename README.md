@@ -1,30 +1,10 @@
-# Playground Template
+# Plate Playground
 
-A Next.js 15 template with [Plate](https://platejs.org/) AI, plugins and components.
-
-## Features
-
-- Next.js 15 App Directory
-- [Plate](https://platejs.org/) editor
-- [shadcn/ui](https://ui.shadcn.com/)
+Scaffolded with template from here: https://github.com/udecode/plate-playground-template
 
 ## Installation
 
 Choose one of these methods:
-
-### 1. Using CLI (Recommended)
-
-```bash
-npx shadcx@latest init plate
-```
-
-```bash
-npx shadcx@latest add plate/editor-ai
-```
-
-### 2. Using Template
-
-[Use this template](https://github.com/udecode/plate-playground-template/generate), then install dependencies:
 
 ```bash
 pnpm install
